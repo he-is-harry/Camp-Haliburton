@@ -13,7 +13,7 @@ Many of the assets used in this game are taken from commercially published image
 
 Here is an example of the asset modelling that was done to create the animations in the game.
 
-https://github.com/he-is-harry/Camp-Haliburton/assets/69978107/94c8951b-eeb7-4a83-9a7b-fe16996b6c17
+https://github.com/he-is-harry/Camp-Haliburton/assets/69978107/93062543-4aa2-4cfa-a8b2-5f4ce3804e9f
 
 Resources that were of great assistance in creating this program are listed below for reference for other developers
 - Removing Backgrounds: [https://www.remove.bg/](https://www.remove.bg/)
