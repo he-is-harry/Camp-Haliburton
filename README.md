@@ -96,16 +96,18 @@ named "PATH" with the path of the JDK's bin, i.e. "C:\Program Files\Java\jdk-18.
 6. If you do have a "Path" variable, you should edit the "Path" variable
 by adding a semicolon to the end of the pre-existing paths, then add the
 path of the JDK's bin. For instance the change would look like,
+
+	```
+	"C:\Users\jack\AppData\Local\Programs\Python\Python39\Scripts\
+	C:\Users\jack\AppData\Local\Programs\Python\Python39\
+	%USERPROFILE%\AppData\Local\Microsoft\WindowsApps"
 	
-    "C:\Users\jack\AppData\Local\Programs\Python\Python39\Scripts\
-     C:\Users\jack\AppData\Local\Programs\Python\Python39\
-     %USERPROFILE%\AppData\Local\Microsoft\WindowsApps"
-
-     to
-
-     "C:\Users\jack\AppData\Local\Programs\Python\Python39\Scripts\
-      C:\Users\jack\AppData\Local\Programs\Python\Python39\
-      %USERPROFILE%\AppData\Local\Microsoft\WindowsApps; C:\Program Files\Java\jdk-18.0.1.1\bin"
+	to
+	
+ 	"C:\Users\jack\AppData\Local\Programs\Python\Python39\Scripts\
+	C:\Users\jack\AppData\Local\Programs\Python\Python39\
+	%USERPROFILE%\AppData\Local\Microsoft\WindowsApps; C:\Program Files\Java\jdk-18.0.1.1\bin"
+ 	```
  
 8. Save your changes by pressing "OK".
 
