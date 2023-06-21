@@ -97,17 +97,17 @@ named "PATH" with the path of the JDK's bin, i.e. "C:\Program Files\Java\jdk-18.
 by adding a semicolon to the end of the pre-existing paths, then add the
 path of the JDK's bin. For instance the change would look like,
 	
-	"C:\Users\jack\AppData\Local\Programs\Python\Python39\Scripts\
-	 C:\Users\jack\AppData\Local\Programs\Python\Python39\
-	 %USERPROFILE%\AppData\Local\Microsoft\WindowsApps"
-	 
-	to
-	 
-	"C:\Users\jack\AppData\Local\Programs\Python\Python39\Scripts\
-	 C:\Users\jack\AppData\Local\Programs\Python\Python39\
-	 %USERPROFILE%\AppData\Local\Microsoft\WindowsApps; C:\Program Files\Java\jdk-18.0.1.1\bin"
+    "C:\Users\jack\AppData\Local\Programs\Python\Python39\Scripts\
+     C:\Users\jack\AppData\Local\Programs\Python\Python39\
+     %USERPROFILE%\AppData\Local\Microsoft\WindowsApps"
+
+     to
+
+     "C:\Users\jack\AppData\Local\Programs\Python\Python39\Scripts\
+      C:\Users\jack\AppData\Local\Programs\Python\Python39\
+      %USERPROFILE%\AppData\Local\Microsoft\WindowsApps; C:\Program Files\Java\jdk-18.0.1.1\bin"
  
-7. Save your changes by pressing "OK".
+8. Save your changes by pressing "OK".
 
 #### Mac
 1. Locate where the JDK is installed, for guidance it should look something like `/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/Contents/Home`
