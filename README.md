@@ -160,7 +160,7 @@ application.
 	
 10\. Select the "**HarryHe_ISU** folder" to import from, which will be in the directory
 in which you copied the folder to. Check off the HarryHe_ISU box to import all 
-content within.
+content within.  
 **Note**: You may need to overwrite the existing default settings, just click yes
 to allow the entire java application to copy over.
 	
