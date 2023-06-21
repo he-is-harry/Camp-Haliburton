@@ -24,15 +24,15 @@ Resources that were of great assistance in creating this program are listed belo
 
 ## Installation and Running
 1\. Open the zip file of the project, inside there should be a folder called "**HarryHe_ISU**". Move the folder outside of the zip package.  
-**Note**: If you see a folder called "_MACOSX" you can ignore this.
+**Note**: If you see a folder called `_MACOSX` you can ignore this.
 
 Since the game is a java application, at least a JRE, Java Runtime Environment, is
-required to run the game. However, I would recommend that the JDK, Java Development
+required to run the game. However, I (Harry) would recommend that the JDK, Java Development
 Kit, should be downloaded for ease of use.
 	
 If you do not have a JDK, follow these steps  
 
-2\. Go to https://www.oracle.com/java/technologies/downloads/ and download
+2\. Go to [https://www.oracle.com/java/technologies/downloads/](https://www.oracle.com/java/technologies/downloads/) and download
 the version of the JDK that matches your operating system and your device specifics.
 The installer may be the easiest way to down load the JDK.
 	
@@ -48,13 +48,13 @@ From here you have two options of running the java application
 which should be named "HarryHe_ISU", and move the folder "**res**" into the "**src**" folder.
 Then, you must move the file "**highscore.txt**" into the "**src**" folder.  
 
-5\. Find the directory in which the "HarryHe_ISU" folder is found, should
-look similar to "C:\Users\username\Desktop" but will be different due to a different
-user name and download location. This path should not include the "HarryHe_ISU" folder,
+5\. Find the directory in which the `HarryHe_ISU` folder is found, should
+look similar to `C:\Users\username\Desktop` but will be different due to a different
+user name and download location. This path should not include the `HarryHe_ISU` folder,
 just the part before.  
 
-6\. Open the command prompt, this can be done by searching "cmd" in the start window, 
-or searching "terminal" on mac.  
+6\. Open the command prompt, this can be done by searching `cmd` in the start window, 
+or searching `terminal` on mac.  
 
 7\. Change your directory to the path found before.  
 
@@ -79,21 +79,21 @@ some steps to solve your issue
 	
 #### Windows
 1. Locate where the JDK is installed, for guidance it should look something like
-"C:\Program Files\Java\jdk-18.0.1.1".
+`C:\Program Files\Java\jdk-18.0.1.1`.
 
 2. Then add upon the sub folder bin to the path, this is where the javac application
-is held. It should look like "C:\Program Files\Java\jdk-18.0.1.1\bin".
+is held. It should look like `C:\Program Files\Java\jdk-18.0.1.1\bin`.
 	
-3. In the start window search "environment variable" and click the "Edit the
-system environment variables" option.
+3. In the start window search `environment variable` and click the `Edit the
+system environment variables` option.
 	
 4. Click on the environment variables button. Then you will find a list
 of your user and system variables.
 	
-5. If you do not have a "Path" variable under your user, you can add a new variable
-named "PATH" with the path of the JDK's bin, i.e. "C:\Program Files\Java\jdk-18.0.1.1\bin".
+5. If you do not have a `Path` variable under your user, you can add a new variable
+named `PATH` with the path of the JDK's bin, i.e. `C:\Program Files\Java\jdk-18.0.1.1\bin`.
 	
-6. If you do have a "Path" variable, you should edit the "Path" variable
+6. If you do have a `Path` variable, you should edit the `Path` variable
 by adding a semicolon to the end of the pre-existing paths, then add the
 path of the JDK's bin. For instance the change would look like,
 
@@ -109,22 +109,23 @@ path of the JDK's bin. For instance the change would look like,
 	%USERPROFILE%\AppData\Local\Microsoft\WindowsApps; C:\Program Files\Java\jdk-18.0.1.1\bin"
  	```
  
-8. Save your changes by pressing "OK".
+8. Save your changes by pressing `OK`.
 
 #### Mac
-1. Locate where the JDK is installed, for guidance it should look something like `/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/Contents/Home`
+1. Locate where the JDK is installed, for guidance it should look something like `/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/Contents/Home`.
 	
 2. Add upon the subfolder bin to the path, which is where the javac application
 is held. It should look like `/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/Contents/Home/bin`.
 	
-3. Open the terminal, by searching "terminal" in the search bar.
+3. Open the terminal, by searching `terminal` in the search bar.
 
 4. Open the paths file, by running the command 
-		
+	```	
 	sudo nano /etc/paths
+ 	```
 	
 5. Go to the bottom of the path, then add on the path of the JDK bin.
-
+	```
 	UW PICO 5.09                        File: /etc/paths                          
 	
 	/usr/local/bin
@@ -133,8 +134,9 @@ is held. It should look like `/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/
 	/usr/sbin
 	/sbin
 	/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/Contents/Home/bin
+ 	```
 		
-6. Press Control-X to save quit the file editor, and press "Y" to save the new
+6. Press Control-X to save quit the file editor, and press `Y` to save the new
 path file.
 	
 7. To test, you can refresh the terminal and run the command below to see the new
@@ -162,13 +164,13 @@ application.
 	
 9\. Select the General option, and then the File System.
 	
-10\. Select the "**HarryHe_ISU** folder" to import from, which will be in the directory
-in which you copied the folder to. Check off the HarryHe_ISU box to import all 
+10\. Select the `HarryHe_ISU` folder to import from, which will be in the directory
+in which you copied the folder to. Check off the `HarryHe_ISU` box to import all 
 content within.  
 **Note**: You may need to overwrite the existing default settings, just click yes
 to allow the entire java application to copy over.
 	
-11. From there run Main.java as a java application or you can select the entire
+11. From there run `Main.java` as a java application or you can select the entire
 project and run it as a java application.
 
 ## Using the Project
