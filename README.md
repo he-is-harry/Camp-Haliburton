@@ -140,7 +140,9 @@ path file.
 7. To test, you can refresh the terminal and run the command below to see the new
 edited paths.
 	
+ 	```
 	echo $PATH
+	```
 		
 ### <a name="eclipse"></a>Using an IDE, Eclipse
 If you do not have Eclipse or another IDE that can run Java, follow steps 4 - 5,
@@ -173,9 +175,9 @@ project and run it as a java application.
 The project will accept mouse and keyboard input. To play the game, refer to the instructions screen to learn about keyboard controls. To control the application use the mouse and cursor as input, pressing the buttons to navigate the game.
 
 ## Credits
-Author: Harry He
-Advisor: Ms. Wong
-Game Model: Harry He
+Author: Harry He  
+Advisor: Ms. Wong  
+Game Model: Harry He  
 	
 Thanks to the creative team for the idea of this game, Harry He, who came up with this idea during the summer of 2022, when trying to think of ideas for his grade 12 final project. Harry's experiences in Scouts Canada inspired him to make the game, where he wanted to share his learnings with the other students at his school. Thanks to the scouter's who inspired the game, Scouter Bryant, Scouter Hubert, Scouter Paige, Scouter Tom and Scouter John.
 
