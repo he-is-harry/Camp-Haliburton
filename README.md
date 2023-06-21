@@ -1,10 +1,12 @@
+
+https://github.com/he-is-harry/Camp-Haliburton/assets/69978107/71686e23-3490-448c-a01c-805d112672d9
 # Camp Haliburton
 Author: Harry He
 
 ## Project Description
 A video demo of how the game is played.
 
-https://github.com/he-is-harry/Camp-Haliburton/assets/69978107/4b0b0cc6-0445-4439-ba2b-f8f6343f31cb
+https://github.com/he-is-harry/Camp-Haliburton/assets/69978107/1f106d4d-65f5-4c0a-aa85-c87d70a9f1c6
 
 The application will be able to run a 2D game with keyboard input used to play the actual game and mouse input used to go through the game's menu. The game will be about the author's experiences in Scouts Canada, allowing the player to relive through them through an adventure style game. All technologies used in the game are apart of Java Standard Library, with features used like graphics and text file streaming. The challenges faced when making this game were creating animated wrapped text within speech box bounds, creating a coherent item system, and integrating animation into the actions performed in the game.
 
@@ -13,7 +15,7 @@ Many of the assets used in this game are taken from commercially published image
 
 Here is an example of the asset modelling that was done to create the animations in the game.
 
-https://github.com/he-is-harry/Camp-Haliburton/assets/69978107/93062543-4aa2-4cfa-a8b2-5f4ce3804e9f
+https://github.com/he-is-harry/Camp-Haliburton/assets/69978107/7a7ebcd6-6708-4a38-bbe3-3cfcf4b9ec4d
 
 Resources that were of great assistance in creating this program are listed below for reference for other developers
 - Removing Backgrounds: [https://www.remove.bg/](https://www.remove.bg/)
