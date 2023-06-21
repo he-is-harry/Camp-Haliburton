@@ -1,5 +1,3 @@
-
-https://github.com/he-is-harry/Camp-Haliburton/assets/69978107/71686e23-3490-448c-a01c-805d112672d9
 # Camp Haliburton
 Author: Harry He
 
