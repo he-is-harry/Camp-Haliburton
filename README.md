@@ -6,6 +6,8 @@ A video demo of how the game is played.
 
 https://github.com/he-is-harry/Camp-Haliburton/assets/69978107/1f106d4d-65f5-4c0a-aa85-c87d70a9f1c6
 
+For an extended deepdive into the full game and how it is played check out the [expanded demo](https://youtu.be/GtZXvhRO_rs).
+
 The application will be able to run a 2D game with keyboard input used to play the actual game and mouse input used to go through the game's menu. The game will be about the author's experiences in Scouts Canada, allowing the player to relive through them through an adventure style game. All technologies used in the game are apart of Java Standard Library, with features used like graphics and text file streaming. The challenges faced when making this game were creating animated wrapped text within speech box bounds, creating a coherent item system, and integrating animation into the actions performed in the game.
 
 ## Asset Generation
